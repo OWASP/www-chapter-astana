@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ulbossyn Balykbayeva](mailto:ulbossyn.balykbayeve@owasp.org)
+* [Olga Chikanayeva](mailto:olga.chikanayeva@owasp.org)

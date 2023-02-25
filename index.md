@@ -21,7 +21,6 @@ Open Web Application Security Project (OWASP) бағдарламалық қам�
 Қауымдастықты [Chapters Policy](/www-policy/operational/chapters) сәйкес жергілікті көшбасшылар басқарады.
 
 <p> The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). </p>
+Chapters are led by local leaders in accordance with the [Chapters Policy].(https://owasp.org/www-policy/operational/chapters).</p>
 
 
